@@ -1,4 +1,4 @@
-![logo](https://github.com/KarnHarshit/KarnHarshit/blob/main/HARSHIT%20KARN.png)
+![logo](https://github.com/KarnHarshit/KarnHarshit/blob/main/HARSHIT%20KARN%20(1).png)
 <h1 align="center">Hi 👋, I'm Harshit Karn</h1>
 <h3 align="center">Future engineer, innovating one idea at a time.</h3>
 
